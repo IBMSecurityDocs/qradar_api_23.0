@@ -1,5 +1,6 @@
 # REST API Version 23.0 references
 
+*  [What's new in REST API Version 23.0](c_rest_api_whats_new_230.html)
 *  [access endpoints](c_rest_api_version230_access_intro.html)
     *  [GET /access/login\_attempts DEPRECATED](23.0--access-login_attempts-GET.html)
 *  [analytics endpoints](c_rest_api_version230_analytics_intro.html)
